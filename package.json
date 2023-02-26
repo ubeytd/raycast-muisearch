@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "mui",
+  "name": "raycast-muisearch",
   "title": "@mui",
   "description": "Search @mui docs",
   "icon": "mui-icon.png",
